@@ -116,7 +116,7 @@ main .seccion1 a img{
   margin:0 auto;
   padding: 120px;
   background-color: #212121;
-  background-image: url(img/fondoLadrones.jpg);
+  background-image: url(../img/fondoLadrones.jpg);
   
   display: flex;
   justify-content: space-between;
